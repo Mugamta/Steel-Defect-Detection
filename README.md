@@ -4,3 +4,4 @@
 | 일자 | 분류 | 세부 내용 |
 |:---:|:---:|:---:|
 | 2023.11.25 | 초기 커밋 | 원본 파일 업로드 |
+| 2023.11.26 | Tensorflow to Pytorch | metric, loss function, model pytorch로 변경 |
